@@ -1,5 +1,7 @@
 #Example Repository
 
-This is a smple repo, hello workld!
+This is a sample repo, hello world!
 
 .md = MarkDown file
+
+This is a second change........
